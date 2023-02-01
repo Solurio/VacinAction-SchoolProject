@@ -1,2 +1,3 @@
 # VacinAction-SchoolProject
 Vacin Action was for me a project that added a lot to my knowledge of game development. You see, how much I could develop for this project and I managed to help my project mates.  Briefly this is a 3D vaccine delivery game in a city of kittens. The game uses assets from the unity store, as the designers ended up having difficulties producing all the blender models within the deadline. This version is still messed up, but it's interesting to see what was done. I recommend installing cinemachine and post-processing before uploading the project to unity studio.
+***Link to download in drive: https://drive.google.com/drive/folders/1bh03Hmus66AcSNbFgzDyLZ_tfMMhzxtf?usp=share_link
